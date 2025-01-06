@@ -6,11 +6,14 @@
 
 ## 🛠️ **Tecnologías y Herramientas**
 
-**Lenguajes:** Java, Python, PHP, JavaScript, HTML, CSS  
+**Lenguajes:** Java, Python, PHP, JavaScript, HTML, CSS
+
 **Frameworks:** Spring Boot, Flask, Laravel, React
 
-**Bases de Datos:** Oracle, MongoDB, PostgreSQL, MySQL  
+**Bases de Datos:** Oracle, MongoDB, PostgreSQL, MySQL 
+
 **DevOps:** Docker, Kubernetes, Azure DevOps  
+
 **Sistemas Operativos:** Linux, macOS, Windows
 
 ---
